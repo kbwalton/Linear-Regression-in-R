@@ -5,7 +5,7 @@ This project demonstrates the implementation of a Linear Regression Model in R t
 
 The purpose of this project is to strengthen my understanding of regression modeling, data visualization, and statistical analysis in R. Additionally, I aimed to practice working with different R datatypes, loops, and functions, making the code modular and reusable.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/pRjcngczoXE))
 
 # Development Environment
 
